@@ -63,6 +63,7 @@ body {
     flex-direction: column;
     background-color: var(--Cyan-color);
     padding: 1.5rem;
+    padding-right: 0rem;
 }
 .container2 .card2 span {
     font-size: 1.1rem;
@@ -70,14 +71,14 @@ body {
 }
 .container2 .card2 h3 {
     color: aliceblue;
-    padding-bottom: 0.8rem;
+    padding-bottom: 0.45rem;
     padding-left: 1.1rem;
     padding-top: 1rem;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 .container2 h4 {
     color: aliceblue;
-    font-size: 1.5rem;
+    font-size: 2rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
     padding-left: 1.1rem;
